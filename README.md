@@ -2,6 +2,7 @@
 
 Este repositório faz referência ao conteúdo apresentado no Peixe Babel:
 * Militares no Governo: Análise de Dados com Python e R: https://youtu.be/GiCmbNzkrbo
+* Página do projeto: https://peixebabel.github.io/militares/no/governo/2021/08/02/militares-no-governo.html
 
 Visualização original e tratamento de dados realizado pelo "Gabinete compartilhado Acredito":
 * Repositório: https://github.com/gabinete-compartilhado-acredito/militares-no-governo
