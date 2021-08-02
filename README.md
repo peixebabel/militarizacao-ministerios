@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/22198915/127868978-8e44cabd-19a3-4e87-
 
 ### Visualização Animada (Gráfico de Áreas)
 
-https://user-images.githubusercontent.com/22198915/127869730-5df651b8-ff42-4ff0-9fd2-b802f767bf9b.mp4
+https://user-images.githubusercontent.com/22198915/127929073-589a932d-2a8d-4836-967c-8cac83e385c8.mp4
 
 
 ### Visualização Estática (Gráfico de Áreas)
